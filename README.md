@@ -1,8 +1,5 @@
 # aqmen_longitudinal
-This is the AQMEN repository for Longitudinal Data Analysis for Social Scientists September 2018
-
-
-
+## This is the AQMEN repository for Longitudinal Data Analysis for Social Scientists September 2018
 
 
 # Longitudinal Data Analysis for Social Scientists
