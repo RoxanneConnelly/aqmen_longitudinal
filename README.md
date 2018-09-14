@@ -1,8 +1,5 @@
-# aqmen_longitudinal
-## This is the AQMEN repository for Longitudinal Data Analysis for Social Scientists September 2018
-
-
 # Longitudinal Data Analysis for Social Scientists
+## This is the AQMEN repository for Longitudinal Data Analysis for Social Scientists September 2018
 
 ## This is an AQMEN (Data Science for Social Research) repository for Longitudinal Data Analysis for Social Scientists
 
@@ -10,11 +7,9 @@
 
 ### A two day hands-on workshop led by Professor Vernon Gayle, University of Edinburgh.
 
-
 ### Rationale: 
 
 Across the social sciences there is widespread agreement that longitudinal data provides powerful research resources.  Many books and courses on longitudinal data analysis are oriented towards statistics and they often lack adequate coverage of the common practical challenges associated with undertaking ‘real’ research. This workshop is specially designed for social scientists. It provides a brief and highly accessible introduction to quantitative longitudinal data analysis using Stata software
-
 <br>
 
 ### Topics: 
