@@ -36,7 +36,7 @@ Available at Amazon https://tinyurl.com/y8cbf7c2 or directly from Bloomsbury htt
 
 ### Files:
 
-_WARNING!_
+**WARNING!**
 
 No research micro data will be distributed during this workshop.
 
