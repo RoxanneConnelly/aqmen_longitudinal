@@ -36,11 +36,12 @@ Available at Amazon https://tinyurl.com/y8cbf7c2 or directly from Bloomsbury htt
 
 ### Files:
 
-**WARNING!**
+<span style="color:red"> *_**WARNING!**_*</span
+
 
 No research micro data will be distributed during this workshop.
 
-The files required are available via the web.
+The files required are available in this git repository.
 
 Participants MAY NOT make copies of these files or distribute them.
 
@@ -126,3 +127,27 @@ https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-shee
 ### Two Page Guide to Stata
 
 http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
+
+___
+
+No research micro data will be distributed during this workshop.
+
+The files required are available in this git repository.
+
+Participants MAY NOT make copies of these files or distribute them.
+
+The files have been specifically created by AQMEN for training 
+and MUST not be used for social science research.
+
+THE DATA ARE NOT REAL! DO NOT USE THEM FOR REAL ANALYSES!
+
+We advise that participants galvanise their training experience and
+work with 'genuine' data files which they can dowload legally from the 
+UK Data Service (http://ukdataservice.ac.uk/ -
+the old site is www.esds.ac.uk but you will be redirected).
+
+At workshops where real survey datasets are used participants MUST sign 
+a data access agreement.
+
+Real administrative data are never used in training settings.
+
