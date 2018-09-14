@@ -80,6 +80,16 @@ Files:
 ___
 
 
+### Links to Longitudinal Studies:
+
+British Household Panel Study https://www.iser.essex.ac.uk/bhps/ <br>
+Understanding Society - The UK Household Longitudinal Study https://www.understandingsociety.ac.uk/ <br>
+CLOSER https://www.closer.ac.uk/ <br>
+US Panel Study of Income Dynamics https://psidonline.isr.umich.edu/ <br>
+The Cross National Equivalence Files https://cnef.ehe.osu.edu/ <br>
+The Household, Income and Labour Dynamics in Australia (HILDA) https://melbourneinstitute.unimelb.edu.au/hilda <br>
+
+
 ### Reading List: 
 
 These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
