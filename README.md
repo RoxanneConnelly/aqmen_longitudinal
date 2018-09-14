@@ -69,6 +69,7 @@ Files:
 | workflow  | .pdf | Day 1 pdf of Powerpoint slides |
 | workflow_paper | .pdf | Gayle and Lambert (2017) |
 | longitudinal     | .do | Main instruction file for Day 2|
+| longitudinal_text | txt |	Plain text (txt) version of the Stata .do file |
 | college_skills |.dta | Duration data example |
 | income_ft_male_panel_fake | .dta | Panel data example (fake BHPS data) |
 | psid_extract | .dta | Example from Cornwell and Rupert (1988) |
