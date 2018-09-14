@@ -14,7 +14,7 @@ Across the social sciences there is widespread agreement that longitudinal data 
 ### Topics: 
 
 The research value of longitudinal data <br>
-Source of longitudinal data <br>
+Sources of longitudinal data <br>
 Analysing repeated cross-sectional data <br>
 Duration models <br>
 Panel data models <br>
