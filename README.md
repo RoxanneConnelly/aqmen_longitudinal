@@ -65,6 +65,7 @@ Files:
 | File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
 | longitudinal_lectures | .pdf | Day 1 pdf of Powerpoint slides |
+| stata_intro | .pdf | Day 1 pdf of Powerpoint slides |
 | longitudinal     | .do | Main instruction file for Day 2|
 | college_skills |.dta | Duration data example |
 | income_ft_male_panel_fake | .dta | Panel data example (fake BHPS data) |
