@@ -62,8 +62,9 @@ Real administrative data are never used in training settings.
 
 Files:
 
-| File Name      | File Type          | Description
+| File Title      | File Type          | Description
 | -------------------------------------|:-------------:|:-------------:|
+| longitudinal_lectures | .pdf | Day 1 pdf of Powerpoint slides |
 | longitudinal     | .do | Main instruction file for Day 2|
 | college_skills |.dta | Duration data example |
 | income_ft_male_panel_fake | .dta | Panel data example (fake BHPS data) |
@@ -73,7 +74,7 @@ Files:
 | aindresp_example | .dta | Wave A of BHPS example data file (fake BHPS data) |
 | bindresp_example | .dta | Wave B of BHPS example data file (fake BHPS data) |
 | cindresp_example | .dta | Wave C of BHPS example data file (fake BHPS data) |
-| longitudinal_lectures | .pdf | Day 1 pdf of Powerpoint slides |
+
 
 
 
