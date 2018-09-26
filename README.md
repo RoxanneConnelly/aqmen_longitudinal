@@ -149,9 +149,38 @@ A discussion of pseudo R squared measures <br>
 https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/
 <br>
 
+Missing Data Methods <br>
+http://www.missingdata.org.uk/ <br>
+
 A usedful paper on presenting modelling results <br>
 Connelly et. al (2016) <br>
 http://journals.sagepub.com/doi/pdf/10.1177/2059799116638002 <br>
+
+Some useful Stata code for outputing model results <br>
+
+global path8 "e:\tables\"
+
+logit yvar i.x1 i.x2 x3
+estimates store logit
+
+#delimit ;
+esttab logit using $path8\logit1.rtf,                     
+               cells("b(fmt(3))se(fmt(3)) t(fmt(3)) p(fmt(3))") 
+               stats(r2_p N, fmt(%9.2f %9.0f) labels(R2(pseudo) n)) 
+               starlevels(* .10 ** .05 *** .01) stardetach 
+               label mtitles(" ") 
+               nonumber
+               title(Title of my model here) 
+               nogaps replace ;
+#delimit cr
+<br>
+
+More information from Ben Jann, Institute of Sociology, University of Bern, jann@soz.unibe.ch. <br>
+http://repec.org/bocode/e/estout/advanced.html <br>
+
+
+
+---
 
 
 
