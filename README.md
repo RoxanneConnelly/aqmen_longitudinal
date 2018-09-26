@@ -164,7 +164,7 @@ logit yvar i.x1 i.x2 x3 <br>
 estimates store logit <br>
 
 #delimit ; <br>
-esttab logit using $path8\logit1.rtf,      <br>                
+esttab logit using $path8\logit1.rtf,             
                cells("b(fmt(3))se(fmt(3)) t(fmt(3)) p(fmt(3))")  <br>
                stats(r2_p N, fmt(%9.2f %9.0f) labels(R2(pseudo) n))  <br>
                starlevels(* .10 ** .05 *** .01) stardetach  <br>
