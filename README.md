@@ -143,6 +143,19 @@ https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-shee
 
 http://www-personal.umich.edu/~agrogan/stata/TwoPageStata.pdf
 
+### Other Useful Links <br>
+
+A discussion of pseudo R squared measures <br>
+https://stats.idre.ucla.edu/other/mult-pkg/faq/general/faq-what-are-pseudo-r-squareds/
+<br>
+
+A usedful paper on presenting modelling results <br>
+Connelly et. al (2016) <br>
+http://journals.sagepub.com/doi/pdf/10.1177/2059799116638002 <br>
+
+
+
+
 ___
 
 No research micro data will be distributed during this workshop.
