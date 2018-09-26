@@ -158,21 +158,21 @@ http://journals.sagepub.com/doi/pdf/10.1177/2059799116638002 <br>
 
 Some useful Stata code for outputing model results <br>
 
-global path8 "e:\tables\"
+global path8 "e:\tables\" <br>
 
-logit yvar i.x1 i.x2 x3
-estimates store logit
+logit yvar i.x1 i.x2 x3 <br>
+estimates store logit <br>
 
-#delimit ;
-esttab logit using $path8\logit1.rtf,                     
-               cells("b(fmt(3))se(fmt(3)) t(fmt(3)) p(fmt(3))") 
-               stats(r2_p N, fmt(%9.2f %9.0f) labels(R2(pseudo) n)) 
-               starlevels(* .10 ** .05 *** .01) stardetach 
-               label mtitles(" ") 
-               nonumber
-               title(Title of my model here) 
-               nogaps replace ;
-#delimit cr
+#delimit ; <br>
+esttab logit using $path8\logit1.rtf,      <br>                
+               cells("b(fmt(3))se(fmt(3)) t(fmt(3)) p(fmt(3))")  <br>
+               stats(r2_p N, fmt(%9.2f %9.0f) labels(R2(pseudo) n))  <br>
+               starlevels(* .10 ** .05 *** .01) stardetach  <br>
+               label mtitles(" ")  <br>
+               nonumber <br>
+               title(Title of my model here) <br>
+               nogaps replace ; <br>
+#delimit cr <br>
 <br>
 
 More information from Ben Jann, Institute of Sociology, University of Bern, jann@soz.unibe.ch. <br>
